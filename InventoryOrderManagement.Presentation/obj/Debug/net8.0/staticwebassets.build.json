@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AVOqDLUUMiw04GMu3xRTeh7YXQ7o9rRAPg0fIDJ2QQM=",
+  "Source": "InventoryOrderManagement.Presentation",
+  "BasePath": "_content/InventoryOrderManagement.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

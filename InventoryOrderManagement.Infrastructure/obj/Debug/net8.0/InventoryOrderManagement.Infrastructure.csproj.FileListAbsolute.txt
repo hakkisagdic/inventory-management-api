@@ -1,0 +1,17 @@
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/InventoryOrderManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/InventoryOrderManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/InventoryOrderManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/InventoryOrderManagement.Infrastructure.AssemblyInfo.cs
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/InventoryOrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net8.0/InventoryOrderManagement.Infrastructure.deps.json
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net8.0/InventoryOrderManagement.Infrastructure.dll
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net8.0/InventoryOrderManagement.Infrastructure.pdb
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net8.0/InventoryOrderManagement.Application.dll
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net8.0/InventoryOrderManagement.Core.dll
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net8.0/InventoryOrderManagement.Application.pdb
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net8.0/InventoryOrderManagement.Core.pdb
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/Inventor.1FA5B968.Up2Date
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/InventoryOrderManagement.Infrastructure.dll
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/refint/InventoryOrderManagement.Infrastructure.dll
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/InventoryOrderManagement.Infrastructure.pdb
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net8.0/ref/InventoryOrderManagement.Infrastructure.dll

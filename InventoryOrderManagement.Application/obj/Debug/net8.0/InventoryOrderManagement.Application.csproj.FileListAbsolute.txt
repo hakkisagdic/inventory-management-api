@@ -1,0 +1,15 @@
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net8.0/InventoryOrderManagement.Application.deps.json
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net8.0/InventoryOrderManagement.Application.dll
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net8.0/InventoryOrderManagement.Application.pdb
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net8.0/InventoryOrderManagement.Core.dll
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net8.0/InventoryOrderManagement.Core.pdb
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/InventoryOrderManagement.Application.csproj.AssemblyReference.cache
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/InventoryOrderManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/InventoryOrderManagement.Application.AssemblyInfoInputs.cache
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/InventoryOrderManagement.Application.AssemblyInfo.cs
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/InventoryOrderManagement.Application.csproj.CoreCompileInputs.cache
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/Inventor.CA490DB9.Up2Date
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/InventoryOrderManagement.Application.dll
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/refint/InventoryOrderManagement.Application.dll
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/InventoryOrderManagement.Application.pdb
+/Users/hakkisagdic/Projects/Arvato/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net8.0/ref/InventoryOrderManagement.Application.dll
