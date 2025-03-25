@@ -219,9 +219,9 @@ var assemblies = [
       { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.AddCompanyRequest", "rp": "InventoryOrderManagement.Application_AddCompanyRequest.html", "cl": 12, "ucl": 1, "cal": 13, "tl": 85, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.AddCompanyResult", "rp": "InventoryOrderManagement.Application_AddCompanyResult.html", "cl": 1, "ucl": 0, "cal": 1, "tl": 85, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.AddCompanyValidator", "rp": "InventoryOrderManagement.Application_AddCompanyValidator.html", "cl": 0, "ucl": 11, "cal": 11, "tl": 85, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.UpdatCompanyHandler", "rp": "InventoryOrderManagement.Application_UpdatCompanyHandler.html", "cl": 0, "ucl": 32, "cal": 32, "tl": 91, "cb": 0, "tb": 12, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.UpdateCompanyRequest", "rp": "InventoryOrderManagement.Application_UpdateCompanyRequest.html", "cl": 0, "ucl": 14, "cal": 14, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
-      { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.UpdateCompanyResult", "rp": "InventoryOrderManagement.Application_UpdateCompanyResult.html", "cl": 0, "ucl": 1, "cal": 1, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.UpdateCompanyHandler", "rp": "InventoryOrderManagement.Application_UpdateCompanyHandler.html", "cl": 25, "ucl": 7, "cal": 32, "tl": 91, "cb": 6, "tb": 12, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.UpdateCompanyRequest", "rp": "InventoryOrderManagement.Application_UpdateCompanyRequest.html", "cl": 13, "ucl": 1, "cal": 14, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.UpdateCompanyResult", "rp": "InventoryOrderManagement.Application_UpdateCompanyResult.html", "cl": 1, "ucl": 0, "cal": 1, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.UpdateCompanyValidator", "rp": "InventoryOrderManagement.Application_UpdateCompanyValidator.html", "cl": 0, "ucl": 12, "cal": 12, "tl": 91, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Queries.GetCompanyListDto", "rp": "InventoryOrderManagement.Application_GetCompanyListDto.html", "cl": 0, "ucl": 14, "cal": 14, "tl": 57, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "InventoryOrderManagement.Application.Features.CompanyManager.Queries.GetCompanyListHandler", "rp": "InventoryOrderManagement.Application_GetCompanyListHandler.html", "cl": 0, "ucl": 11, "cal": 11, "tl": 57, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
@@ -238,7 +238,7 @@ var assemblies = [
   {
     "name": "InventoryOrderManagement.Core",
     "classes": [
-      { "name": "InventoryOrderManagement.Core.Common.BaseEntity", "rp": "InventoryOrderManagement.Core_BaseEntity.html", "cl": 4, "ucl": 2, "cal": 6, "tl": 11, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
+      { "name": "InventoryOrderManagement.Core.Common.BaseEntity", "rp": "InventoryOrderManagement.Core_BaseEntity.html", "cl": 5, "ucl": 1, "cal": 6, "tl": 11, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "InventoryOrderManagement.Core.Company", "rp": "InventoryOrderManagement.Core_Company.html", "cl": 11, "ucl": 0, "cal": 11, "tl": 18, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "InventoryOrderManagement.Core.Customer", "rp": "InventoryOrderManagement.Core_Customer.html", "cl": 0, "ucl": 16, "cal": 16, "tl": 23, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
       { "name": "InventoryOrderManagement.Core.CustomerCategory", "rp": "InventoryOrderManagement.Core_CustomerCategory.html", "cl": 0, "ucl": 2, "cal": 2, "tl": 9, "cb": 0, "tb": 0, "cm": 0, "fcm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "mfch": [], "hc": [], "metrics": { } },
@@ -392,12 +392,6 @@ var riskHotspots = [
     "metrics": [
       { "value": 210, "exceeded": true },
       { "value": 14, "exceeded": false },
-    ]},
-  {
-    "assembly": "InventoryOrderManagement.Application", "class": "InventoryOrderManagement.Application.Features.CompanyManager.Commands.UpdatCompanyHandler", "reportPath": "InventoryOrderManagement.Application_UpdatCompanyHandler.html", "methodName": "Handle()", "methodShortName": "Handle()", "fileIndex": 0, "line": 59,
-    "metrics": [
-      { "value": 156, "exceeded": true },
-      { "value": 12, "exceeded": false },
     ]},
   {
     "assembly": "InventoryOrderManagement.Infrastructure", "class": "InventoryOrderManagement.Infrastructure.SecurityManager.AspNetIdentity.SecurityService", "reportPath": "InventoryOrderManagement.Infrastructure_SecurityService.html", "methodName": "ForgotPasswordAsync()", "methodShortName": "ForgotPasswordAsync()", "fileIndex": 0, "line": 267,

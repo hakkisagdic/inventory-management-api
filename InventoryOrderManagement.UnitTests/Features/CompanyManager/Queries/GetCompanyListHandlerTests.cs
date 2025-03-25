@@ -3,9 +3,7 @@ using FluentAssertions;
 using InventoryOrderManagement.Application.Common.CQS.Queries;
 using InventoryOrderManagement.Application.Features.CompanyManager.Queries;
 using InventoryOrderManagement.Core;
-using Microsoft.EntityFrameworkCore;
 using Moq;
-using System.Linq.Expressions;
 
 namespace InventoryOrderManagement.UnitTests.Features.CompanyManager.Queries;
 

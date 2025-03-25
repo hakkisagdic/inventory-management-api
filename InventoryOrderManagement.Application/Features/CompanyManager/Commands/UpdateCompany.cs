@@ -44,12 +44,12 @@ public class UpdateCompanyValidator : AbstractValidator<UpdateCompanyRequest>
     }
 }
 
-public class UpdatCompanyHandler : IRequestHandler<UpdateCompanyRequest, UpdateCompanyResult>
+public class UpdateCompanyHandler : IRequestHandler<UpdateCompanyRequest, UpdateCompanyResult>
 {
     private readonly ICommandRepository<Company> _repository;
     private readonly IUnitOfWork _unitOfWork;
     
-    public UpdatCompanyHandler(ICommandRepository<Company> repository, IUnitOfWork unitOfWork)
+    public UpdateCompanyHandler(ICommandRepository<Company> repository, IUnitOfWork unitOfWork)
     {
         _repository = repository;
         _unitOfWork = unitOfWork;

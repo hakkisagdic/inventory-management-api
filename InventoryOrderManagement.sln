@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryOrderManagement.In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryOrderManagement.Presentation", "InventoryOrderManagement.Presentation\InventoryOrderManagement.Presentation.csproj", "{341D222A-4781-4E77-ACEC-7252F196C531}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryOrderManagement.UnitTests", "InventoryOrderManagement.UnitTests\InventoryOrderManagement.UnitTests.csproj", "{5152D253-ABDC-496F-A774-F0712AF94F9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{341D222A-4781-4E77-ACEC-7252F196C531}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{341D222A-4781-4E77-ACEC-7252F196C531}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{341D222A-4781-4E77-ACEC-7252F196C531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5152D253-ABDC-496F-A774-F0712AF94F9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5152D253-ABDC-496F-A774-F0712AF94F9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5152D253-ABDC-496F-A774-F0712AF94F9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5152D253-ABDC-496F-A774-F0712AF94F9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
