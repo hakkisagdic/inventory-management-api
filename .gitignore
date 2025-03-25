@@ -40,7 +40,6 @@ ScaffoldingReadMe.txt
 ~$*
 *~
 CodeCoverage/
-InventoryOrderManagement.UnitTests/coveragereport/
 
 # MSBuild Binary and Structured Log
 *.binlog
